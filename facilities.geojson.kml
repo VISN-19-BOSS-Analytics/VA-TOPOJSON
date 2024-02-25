@@ -1,0 +1,2096 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.476227,
+          45.962029,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Butte VA Clinic",
+        "styleUrl": "#icon-1899-C2185B-labelson",
+        "styleHash": "-19315bf5",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "30093",
+        "par_sta_no": "436",
+        "sta_no": "436GO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.10185,
+          46.617642,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fort Harrison VA Medical Center",
+        "styleUrl": "#icon-1899-C2185B-labelson",
+        "styleHash": "-19315bf5",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "VAMC",
+        "fips": "30049",
+        "par_sta_no": "436",
+        "sta_no": "436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.830952,
+          39.744506,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rocky Mountain Regional VA Medical Center",
+        "styleUrl": "#globeIcon",
+        "styleHash": "-47345523",
+        "description": "",
+        "stroke-width": 2,
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "VAMC",
+        "fips": "08001",
+        "par_sta_no": "554",
+        "sta_no": "554"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.819823,
+          39.681279,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jewell VA Clinic",
+        "styleUrl": "#icon-1899-0F9D58-labelson",
+        "styleHash": "-611d7473",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "OOS",
+        "fips": "08005",
+        "par_sta_no": "554",
+        "sta_no": "554QB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.199002,
+          39.73374,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Golden VA Clinic",
+        "styleUrl": "#icon-1899-0F9D58-labelson",
+        "styleHash": "-611d7473",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "MSCBOC",
+        "fips": "08059",
+        "par_sta_no": "554",
+        "sta_no": "554GC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.639143,
+          48.194863,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Glasgow VA Clinic",
+        "styleUrl": "#icon-1899-C2185B-labelson",
+        "styleHash": "-19315bf5",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "30105",
+        "par_sta_no": "436",
+        "sta_no": "436GI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.058607,
+          46.908743,
+          0
+        ]
+      },
+      "properties": {
+        "name": "David J. Thatcher VA Clinic",
+        "styleUrl": "#icon-1899-C2185B-labelson",
+        "styleHash": "-19315bf5",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "MSCBOC",
+        "fips": "30063",
+        "par_sta_no": "436",
+        "sta_no": "436GC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.832616,
+          39.696718,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aurora VA Clinic",
+        "styleUrl": "#icon-1899-0F9D58-labelson",
+        "styleHash": "-611d7473",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "08005",
+        "par_sta_no": "554",
+        "sta_no": "554GB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.264865,
+          39.300928,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Burlington VA Clinic",
+        "styleUrl": "#icon-1899-0F9D58-labelson",
+        "styleHash": "-611d7473",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "OOS",
+        "fips": "08063",
+        "par_sta_no": "554",
+        "sta_no": "554GI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.020364,
+          45.679098,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Travis W. Atkins Department of Veterans Affairs Clinic",
+        "styleUrl": "#icon-1899-C2185B-labelson",
+        "styleHash": "-19315bf5",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "30031",
+        "par_sta_no": "436",
+        "sta_no": "436GD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.712466,
+          48.556885,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Merril Lundman Department of Veterans Affairs Outpatient Clinic",
+        "styleUrl": "#icon-1899-C2185B-labelson",
+        "styleHash": "-19315bf5",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "30041",
+        "par_sta_no": "436",
+        "sta_no": "436HC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.786257,
+          41.148027,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cheyenne VA Medical Center",
+        "styleUrl": "#icon-1899-FFD600-labelson",
+        "styleHash": "-324a75b7",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "VAMC",
+        "fips": "56021",
+        "par_sta_no": "442",
+        "sta_no": "442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.257372,
+          47.490462,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Great Falls VA Clinic",
+        "styleUrl": "#icon-1899-C2185B-labelson",
+        "styleHash": "-19315bf5",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "30013",
+        "par_sta_no": "436",
+        "sta_no": "436GB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.330799,
+          48.21144,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kalispell VA Clinic",
+        "styleUrl": "#icon-1899-C2185B-labelson",
+        "styleHash": "-19315bf5",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "30029",
+        "par_sta_no": "436",
+        "sta_no": "436GF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.618086,
+          38.075355,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lamar VA Clinic",
+        "styleUrl": "#icon-1899-0F9D58-labelson",
+        "styleHash": "-611d7473",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "OOS",
+        "fips": "08099",
+        "par_sta_no": "554",
+        "sta_no": "554GH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.619216,
+          38.323352,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PFC James Dunn VA Clinic",
+        "styleUrl": "#icon-1899-0F9D58-labelson",
+        "styleHash": "-611d7473",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "MSCBOC",
+        "fips": "08101",
+        "par_sta_no": "554",
+        "sta_no": "554GD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.68928,
+          47.12719,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Glendive VA Clinic",
+        "styleUrl": "#icon-1899-C2185B-labelson",
+        "styleHash": "-19315bf5",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "30021",
+        "par_sta_no": "436",
+        "sta_no": "436GK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.971479,
+          46.569743,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Helena VA Clinic",
+        "styleUrl": "#icon-1899-C2185B-labelson",
+        "styleHash": "-19315bf5",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "30049",
+        "par_sta_no": "436",
+        "sta_no": "436QC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.197495,
+          40.637138,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sterling VA Clinic",
+        "styleUrl": "#icon-1899-FFD600-labelson",
+        "styleHash": "-324a75b7",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "08075",
+        "par_sta_no": "442",
+        "sta_no": "442QG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.548806,
+          37.977564,
+          0
+        ]
+      },
+      "properties": {
+        "name": "La Junta VA Clinic",
+        "styleUrl": "#icon-1899-0F9D58-labelson",
+        "styleHash": "-611d7473",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "08089",
+        "par_sta_no": "554",
+        "sta_no": "554GG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.845359,
+          38.874135,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PFC Floyd K. Lindstrom Department of Veterans Affairs Clinic",
+        "styleUrl": "#icon-1899-0F9D58-labelson",
+        "styleHash": "-611d7473",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "MSCBOC",
+        "fips": "08041",
+        "par_sta_no": "554",
+        "sta_no": "554GE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.787491,
+          38.887668,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Union Boulevard VA Clinic",
+        "styleUrl": "#icon-1899-0F9D58-labelson",
+        "styleHash": "-611d7473",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "OOS",
+        "fips": "08041",
+        "par_sta_no": "554",
+        "sta_no": "554GK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.330278,
+          48.63472,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cut Bank VA Clinic",
+        "styleUrl": "#icon-1899-C2185B-labelson",
+        "styleHash": "-19315bf5",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "30035",
+        "par_sta_no": "436",
+        "sta_no": "436GL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.217817,
+          41.796194,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rawlins VA Clinic",
+        "styleUrl": "#icon-1899-FFD600-labelson",
+        "styleHash": "-324a75b7",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "56007",
+        "par_sta_no": "442",
+        "sta_no": "442QA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.026192,
+          48.57236,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Browning VA Clinic",
+        "styleUrl": "#icon-1899-C2185B-labelson",
+        "styleHash": "-19315bf5",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "30035",
+        "par_sta_no": "436",
+        "sta_no": "436QD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.007268,
+          38.542686,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Salida VA Clinic",
+        "styleUrl": "#icon-1899-0F9D58-labelson",
+        "styleHash": "-611d7473",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "OOS",
+        "fips": "08015",
+        "par_sta_no": "554",
+        "sta_no": "554QC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.853469,
+          38.896475,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Garden of the Gods VA Clinic",
+        "styleUrl": "#icon-1899-0F9D58-labelson",
+        "styleHash": "-611d7473",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "OOS",
+        "fips": "08041",
+        "par_sta_no": "554",
+        "sta_no": "554QF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.560291,
+          40.514188,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Major William Edward Adams Department of Veterans Affairs Clinic",
+        "styleUrl": "#icon-1899-7CB342-labelson",
+        "styleHash": "-2957105",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "08081",
+        "par_sta_no": "575",
+        "sta_no": "575GB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.408563,
+          47.070122,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lewistown VA Clinic",
+        "styleUrl": "#icon-1899-C2185B-labelson",
+        "styleHash": "-19315bf5",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "30027",
+        "par_sta_no": "436",
+        "sta_no": "436GM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.603579,
+          45.736901,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Benjamin Charles Steele VA Clinic",
+        "styleUrl": "#icon-1899-C2185B-labelson",
+        "styleHash": "-19315bf5",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "HCC",
+        "fips": "30111",
+        "par_sta_no": "436",
+        "sta_no": "436GH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.563252,
+          48.778711,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Plentywood VA Clinic",
+        "styleUrl": "#icon-1899-C2185B-labelson",
+        "styleHash": "-19315bf5",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "30091",
+        "par_sta_no": "436",
+        "sta_no": "436QB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.995925,
+          40.442218,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Northern Colorado VA Clinic",
+        "styleUrl": "#icon-1899-FFD600-labelson",
+        "styleHash": "-324a75b7",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "MSCBOC",
+        "fips": "08069",
+        "par_sta_no": "442",
+        "sta_no": "442GE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.72696,
+          38.840579,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Space Center VA Clinic",
+        "styleUrl": "#icon-1899-0F9D58-labelson",
+        "styleHash": "-611d7473",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "08041",
+        "par_sta_no": "554",
+        "sta_no": "554GM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.548785,
+          38.562514,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Moab VA Clinic",
+        "styleUrl": "#icon-1899-7CB342-labelson",
+        "styleHash": "-2957105",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "49019",
+        "par_sta_no": "575",
+        "sta_no": "575QB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.087951,
+          40.553874,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fort Collins VA Clinic",
+        "styleUrl": "#icon-1899-FFD600-labelson",
+        "styleHash": "-324a75b7",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "08069",
+        "par_sta_no": "442",
+        "sta_no": "442GC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.606166,
+          45.7374,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dr. Joseph Medicine Crow VA Clinic",
+        "styleUrl": "#icon-1899-C2185B-labelson",
+        "styleHash": "-19315bf5",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "30111",
+        "par_sta_no": "436",
+        "sta_no": "436GN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.976688,
+          41.142464,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sidney VA Clinic",
+        "styleUrl": "#icon-1899-FFD600-labelson",
+        "styleHash": "-324a75b7",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "31033",
+        "par_sta_no": "442",
+        "sta_no": "442GB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.144178,
+          46.254985,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hamilton VA Clinic",
+        "styleUrl": "#icon-1899-C2185B-labelson",
+        "styleHash": "-19315bf5",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "30081",
+        "par_sta_no": "436",
+        "sta_no": "436QA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.003818,
+          40.412649,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Loveland VA Clinic",
+        "styleUrl": "#icon-1899-FFD600-labelson",
+        "styleHash": "-324a75b7",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "MSCBOC",
+        "fips": "08069",
+        "par_sta_no": "442",
+        "sta_no": "442GD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.325453,
+          39.527831,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Glenwood Springs VA Clinic",
+        "styleUrl": "#icon-1899-7CB342-labelson",
+        "styleHash": "-2957105",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "08045",
+        "par_sta_no": "575",
+        "sta_no": "575QA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.871848,
+          38.470666,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Montrose VA Clinic",
+        "styleUrl": "#icon-1899-7CB342-labelson",
+        "styleHash": "-2957105",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "08085",
+        "par_sta_no": "575",
+        "sta_no": "575GA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.902756,
+          37.4796,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Alamosa VA Clinic",
+        "styleUrl": "#icon-1899-0F9D58-labelson",
+        "styleHash": "-611d7473",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "OOS",
+        "fips": "08003",
+        "par_sta_no": "554",
+        "sta_no": "554GF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.540243,
+          39.077277,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Grand Junction VA Medical Center",
+        "styleUrl": "#icon-1899-7CB342-labelson",
+        "styleHash": "-2957105",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "VAMC",
+        "fips": "08077",
+        "par_sta_no": "575",
+        "sta_no": "575"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.959712,
+          39.769569,
+          0
+        ]
+      },
+      "properties": {
+        "name": "York Street VA Clinic",
+        "styleUrl": "#icon-1899-0F9D58-labelson",
+        "styleHash": "-611d7473",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "OOS",
+        "fips": "08031",
+        "par_sta_no": "554",
+        "sta_no": "554QA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.923282,
+          36.089352,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yale Avenue VA Clinic",
+        "styleUrl": "#icon-1899-006064-labelson",
+        "styleHash": "74ed8575",
+        "description": "",
+        "parentstationcl": "2-Medium Complexity",
+        "s_abbr": "OOS",
+        "fips": "40143",
+        "par_sta_no": "623",
+        "sta_no": "623QC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.051517,
+          36.126354,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Stillwater VA Clinic",
+        "styleUrl": "#icon-1899-9C27B0-labelson",
+        "styleHash": "542f427f",
+        "description": "",
+        "parentstationcl": "1b-High Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "40119",
+        "par_sta_no": "635",
+        "sta_no": "635GE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.547341,
+          37.11179,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St. George VA Clinic",
+        "styleUrl": "#icon-1899-F9A825-labelson",
+        "styleHash": "3f10e51f",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "CBOC",
+        "fips": "49053",
+        "par_sta_no": "660",
+        "sta_no": "660GG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.984922,
+          44.826968,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sheridan VA Medical Center",
+        "styleUrl": "#icon-1899-673AB7-labelson",
+        "styleHash": "-234c3db3",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "VAMC",
+        "fips": "56033",
+        "par_sta_no": "666",
+        "sta_no": "666"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.421092,
+          43.035645,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Riverton VA Clinic",
+        "styleUrl": "#icon-1899-673AB7-labelson",
+        "styleHash": "-234c3db3",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "56013",
+        "par_sta_no": "666",
+        "sta_no": "666GC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.999108,
+          43.491811,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Idaho Falls VA Clinic",
+        "styleUrl": "#icon-1899-F9A825-labelson",
+        "styleHash": "3f10e51f",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "16019",
+        "par_sta_no": "660",
+        "sta_no": "660QA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.413609,
+          35.764897,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jack C. Montgomery Department of Veterans Affairs Medical Center",
+        "styleUrl": "#icon-1899-006064-labelson",
+        "styleHash": "74ed8575",
+        "description": "",
+        "parentstationcl": "2-Medium Complexity",
+        "s_abbr": "VAMC",
+        "fips": "40101",
+        "par_sta_no": "623",
+        "sta_no": "623"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.598917,
+          36.337569,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Claremore VA Clinic",
+        "styleUrl": "#icon-1899-006064-labelson",
+        "styleHash": "74ed8575",
+        "description": "",
+        "parentstationcl": "2-Medium Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "40131",
+        "par_sta_no": "623",
+        "sta_no": "623GD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.768175,
+          35.482561,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yukon VA Clinic",
+        "styleUrl": "#icon-1899-9C27B0-labelson",
+        "styleHash": "542f427f",
+        "description": "",
+        "parentstationcl": "1b-High Complexity",
+        "s_abbr": "MSCBOC",
+        "fips": "40017",
+        "par_sta_no": "635",
+        "sta_no": "635GJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.964369,
+          35.515486,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Clinton VA Clinic",
+        "styleUrl": "#icon-1899-9C27B0-labelson",
+        "styleHash": "542f427f",
+        "description": "",
+        "parentstationcl": "1b-High Complexity",
+        "s_abbr": "OOS",
+        "fips": "40039",
+        "par_sta_no": "635",
+        "sta_no": "635GH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1436,
+          36.632051,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vinita VA Clinic",
+        "styleUrl": "#icon-1899-006064-labelson",
+        "styleHash": "74ed8575",
+        "description": "",
+        "parentstationcl": "2-Medium Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "40035",
+        "par_sta_no": "623",
+        "sta_no": "623GB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.296898,
+          36.796953,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Blackwell VA Clinic",
+        "styleUrl": "#icon-1899-9C27B0-labelson",
+        "styleHash": "542f427f",
+        "description": "",
+        "parentstationcl": "1b-High Complexity",
+        "s_abbr": "OOS",
+        "fips": "40071",
+        "par_sta_no": "635",
+        "sta_no": "635GC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.404778,
+          35.419766,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tinker VA Clinic",
+        "styleUrl": "#icon-1899-9C27B0-labelson",
+        "styleHash": "542f427f",
+        "description": "",
+        "parentstationcl": "1b-High Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "40109",
+        "par_sta_no": "635",
+        "sta_no": "635QE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.339019,
+          35.77112,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Muskogee East VA Clinic",
+        "styleUrl": "#icon-1899-006064-labelson",
+        "styleHash": "74ed8575",
+        "description": "",
+        "parentstationcl": "2-Medium Complexity",
+        "s_abbr": "OOS",
+        "fips": "40101",
+        "par_sta_no": "623",
+        "sta_no": "623QA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.144781,
+          34.187577,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ardmore VA Clinic",
+        "styleUrl": "#icon-1899-9C27B0-labelson",
+        "styleHash": "542f427f",
+        "description": "",
+        "parentstationcl": "1b-High Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "40019",
+        "par_sta_no": "635",
+        "sta_no": "635HB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.433329,
+          42.867022,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pocatello VA Clinic",
+        "styleUrl": "#icon-1899-F9A825-labelson",
+        "styleHash": "3f10e51f",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "MSCBOC",
+        "fips": "16005",
+        "par_sta_no": "660",
+        "sta_no": "660GA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.941463,
+          41.252215,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Evanston VA Clinic",
+        "styleUrl": "#icon-1899-673AB7-labelson",
+        "styleHash": "-234c3db3",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "56041",
+        "par_sta_no": "666",
+        "sta_no": "666QB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.750318,
+          34.936017,
+          0
+        ]
+      },
+      "properties": {
+        "name": "McAlester VA Clinic",
+        "styleUrl": "#icon-1899-006064-labelson",
+        "styleHash": "74ed8575",
+        "description": "",
+        "parentstationcl": "2-Medium Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "40121",
+        "par_sta_no": "623",
+        "sta_no": "623GA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.412658,
+          35.387603,
+          0
+        ]
+      },
+      "properties": {
+        "name": "South Oklahoma City VA Clinic",
+        "styleUrl": "#icon-1899-9C27B0-labelson",
+        "styleHash": "542f427f",
+        "description": "",
+        "parentstationcl": "1b-High Complexity",
+        "s_abbr": "MSCBOC",
+        "fips": "40109",
+        "par_sta_no": "635",
+        "sta_no": "635QB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.43355,
+          34.661505,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lawton North VA Clinic",
+        "styleUrl": "#icon-1899-9C27B0-labelson",
+        "styleHash": "542f427f",
+        "description": "",
+        "parentstationcl": "1b-High Complexity",
+        "s_abbr": "OOS",
+        "fips": "40031",
+        "par_sta_no": "635",
+        "sta_no": "635QD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.688919,
+          40.283166,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Orem VA Clinic",
+        "styleUrl": "#icon-1899-F9A825-labelson",
+        "styleHash": "3f10e51f",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "49049",
+        "par_sta_no": "660",
+        "sta_no": "660GE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.629055,
+          34.781589,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ada VA Clinic",
+        "styleUrl": "#icon-1899-9C27B0-labelson",
+        "styleHash": "542f427f",
+        "description": "",
+        "parentstationcl": "1b-High Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "40123",
+        "par_sta_no": "635",
+        "sta_no": "635GD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.864389,
+          36.390662,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Enid VA Clinic",
+        "styleUrl": "#icon-1899-9C27B0-labelson",
+        "styleHash": "542f427f",
+        "description": "",
+        "parentstationcl": "1b-High Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "40047",
+        "par_sta_no": "635",
+        "sta_no": "635GG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.868455,
+          36.033813,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ernest Childers Department of Veterans Affairs Outpatient Clinic",
+        "styleUrl": "#icon-1899-006064-labelson",
+        "styleHash": "74ed8575",
+        "description": "",
+        "parentstationcl": "2-Medium Complexity",
+        "s_abbr": "MSCBOC",
+        "fips": "40143",
+        "par_sta_no": "623",
+        "sta_no": "623BY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.527059,
+          33.949107,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Wichita Falls VA Clinic",
+        "styleUrl": "#icon-1899-9C27B0-labelson",
+        "styleHash": "542f427f",
+        "description": "",
+        "parentstationcl": "1b-High Complexity",
+        "s_abbr": "MSCBOC",
+        "fips": "48485",
+        "par_sta_no": "635",
+        "sta_no": "635GB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.929839,
+          35.3673,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Shawnee VA Clinic",
+        "styleUrl": "#icon-1899-9C27B0-labelson",
+        "styleHash": "542f427f",
+        "description": "",
+        "parentstationcl": "1b-High Complexity",
+        "s_abbr": "OOS",
+        "fips": "40125",
+        "par_sta_no": "635",
+        "sta_no": "635GK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.568442,
+          35.592539,
+          0
+        ]
+      },
+      "properties": {
+        "name": "North May VA Clinic",
+        "styleUrl": "#icon-1899-9C27B0-labelson",
+        "styleHash": "542f427f",
+        "description": "",
+        "parentstationcl": "1b-High Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "40109",
+        "par_sta_no": "635",
+        "sta_no": "635QA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.816711,
+          33.895571,
+          0
+        ]
+      },
+      "properties": {
+        "name": "McCurtain County VA Clinic",
+        "styleUrl": "#icon-1899-006064-labelson",
+        "styleHash": "74ed8575",
+        "description": "",
+        "parentstationcl": "2-Medium Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "40089",
+        "par_sta_no": "623",
+        "sta_no": "623GC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.481398,
+          35.23122,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Norman VA Clinic",
+        "styleUrl": "#icon-1899-9C27B0-labelson",
+        "styleHash": "542f427f",
+        "description": "",
+        "parentstationcl": "1b-High Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "40027",
+        "par_sta_no": "635",
+        "sta_no": "635GI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.862172,
+          36.149229,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tulsa Eleventh Street VA Clinic",
+        "styleUrl": "#icon-1899-006064-labelson",
+        "styleHash": "74ed8575",
+        "description": "",
+        "parentstationcl": "2-Medium Complexity",
+        "s_abbr": "OOS",
+        "fips": "40143",
+        "par_sta_no": "623",
+        "sta_no": "623QB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.496432,
+          35.482455,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oklahoma City VA Medical Center",
+        "styleUrl": "#icon-1899-9C27B0-labelson",
+        "styleHash": "542f427f",
+        "description": "",
+        "parentstationcl": "1b-High Complexity",
+        "s_abbr": "VAMC",
+        "fips": "40109",
+        "par_sta_no": "635",
+        "sta_no": "635"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.995898,
+          40.302061,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Roosevelt VA Clinic",
+        "styleUrl": "#icon-1899-F9A825-labelson",
+        "styleHash": "3f10e51f",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "OOS",
+        "fips": "49013",
+        "par_sta_no": "660",
+        "sta_no": "660GD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.972695,
+          41.191524,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ogden VA Clinic",
+        "styleUrl": "#icon-1899-F9A825-labelson",
+        "styleHash": "3f10e51f",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "MSCBOC",
+        "fips": "49057",
+        "par_sta_no": "660",
+        "sta_no": "660GB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.790341,
+          40.840017,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Elko VA Clinic",
+        "styleUrl": "#icon-1899-F9A825-labelson",
+        "styleHash": "3f10e51f",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "OOS",
+        "fips": "32007",
+        "par_sta_no": "660",
+        "sta_no": "660GK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.235888,
+          42.84315,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Casper VA Clinic",
+        "styleUrl": "#icon-1899-673AB7-labelson",
+        "styleHash": "-234c3db3",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "56025",
+        "par_sta_no": "666",
+        "sta_no": "666GB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.933205,
+          42.731305,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Afton VA Clinic",
+        "styleUrl": "#icon-1899-673AB7-labelson",
+        "styleHash": "-234c3db3",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "56023",
+        "par_sta_no": "666",
+        "sta_no": "666QA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.416618,
+          34.653247,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lawton VA Clinic",
+        "styleUrl": "#icon-1899-9C27B0-labelson",
+        "styleHash": "542f427f",
+        "description": "",
+        "parentstationcl": "1b-High Complexity",
+        "s_abbr": "MSCBOC",
+        "fips": "40031",
+        "par_sta_no": "635",
+        "sta_no": "635GA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.488909,
+          35.48409,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fourteenth Street VA Clinic",
+        "styleUrl": "#icon-1899-9C27B0-labelson",
+        "styleHash": "542f427f",
+        "description": "",
+        "parentstationcl": "1b-High Complexity",
+        "s_abbr": "OOS",
+        "fips": "40109",
+        "par_sta_no": "635",
+        "sta_no": "635QC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.57314,
+          35.617302,
+          0
+        ]
+      },
+      "properties": {
+        "name": "North Oklahoma City VA Clinic",
+        "styleUrl": "#icon-1899-9C27B0-labelson",
+        "styleHash": "542f427f",
+        "description": "",
+        "parentstationcl": "1b-High Complexity",
+        "s_abbr": "OOS",
+        "fips": "40109",
+        "par_sta_no": "635",
+        "sta_no": "635GL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.333976,
+          34.654873,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Altus VA Clinic",
+        "styleUrl": "#icon-1899-9C27B0-labelson",
+        "styleHash": "542f427f",
+        "description": "",
+        "parentstationcl": "1b-High Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "40065",
+        "par_sta_no": "635",
+        "sta_no": "635GF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.83765,
+          40.755051,
+          0
+        ]
+      },
+      "properties": {
+        "name": "George E. Wahlen Department of Veterans Affairs Medical Center",
+        "styleUrl": "#icon-1899-F9A825-labelson",
+        "styleHash": "3f10e51f",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "VAMC",
+        "fips": "49035",
+        "par_sta_no": "660",
+        "sta_no": "660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.823079,
+          41.775979,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cache Valley VA Clinic",
+        "styleUrl": "#icon-1899-F9A825-labelson",
+        "styleHash": "3f10e51f",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "OOS",
+        "fips": "49005",
+        "par_sta_no": "660",
+        "sta_no": "660QD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.533661,
+          39.063922,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Grand Junction 28 Road VA Clinic",
+        "styleUrl": "#icon-1899-7CB342-labelson",
+        "styleHash": "-2957105",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "08077",
+        "par_sta_no": "575",
+        "sta_no": "575QD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.945283,
+          36.748773,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bartlesville VA Clinic",
+        "styleUrl": "#icon-1899-006064-labelson",
+        "styleHash": "74ed8575",
+        "description": "",
+        "parentstationcl": "2-Medium Complexity",
+        "s_abbr": "OOS",
+        "fips": "40147",
+        "par_sta_no": "623",
+        "sta_no": "623QD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.012569,
+          40.541476,
+          0
+        ]
+      },
+      "properties": {
+        "name": "South Jordan VA Clinic",
+        "styleUrl": "#icon-1899-F9A825-labelson",
+        "styleHash": "3f10e51f",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "PCCBOC",
+        "fips": "49035",
+        "par_sta_no": "660",
+        "sta_no": "660GJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.058882,
+          44.527149,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cody VA Clinic",
+        "styleUrl": "#icon-1899-673AB7-labelson",
+        "styleHash": "-234c3db3",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "56029",
+        "par_sta_no": "666",
+        "sta_no": "666GD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.820152,
+          39.597822,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Price VA Clinic",
+        "styleUrl": "#icon-1899-F9A825-labelson",
+        "styleHash": "3f10e51f",
+        "description": "",
+        "parentstationcl": "1a-High Complexity",
+        "s_abbr": "OOS",
+        "fips": "49007",
+        "par_sta_no": "660",
+        "sta_no": "660QB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.243095,
+          41.592373,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rock Springs VA Clinic",
+        "styleUrl": "#icon-1899-673AB7-labelson",
+        "styleHash": "-234c3db3",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "56037",
+        "par_sta_no": "666",
+        "sta_no": "666GF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.511118,
+          44.245986,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gillette VA Clinic",
+        "styleUrl": "#icon-1899-673AB7-labelson",
+        "styleHash": "-234c3db3",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "56005",
+        "par_sta_no": "666",
+        "sta_no": "666GE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.948437,
+          44.012502,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Worland VA Clinic",
+        "styleUrl": "#icon-1899-673AB7-labelson",
+        "styleHash": "-234c3db3",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "56043",
+        "par_sta_no": "666",
+        "sta_no": "666QC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.82258,
+          46.40499,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Miles City VA Clinic",
+        "styleUrl": "#icon-1899-C2185B-labelson",
+        "styleHash": "-19315bf5",
+        "description": "",
+        "parentstationcl": "3-Low Complexity",
+        "s_abbr": "OOS",
+        "fips": "30017",
+        "par_sta_no": "436",
+        "sta_no": "436QE"
+      }
+    }
+  ]
+}
