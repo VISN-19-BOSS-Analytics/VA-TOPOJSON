@@ -1,0 +1,2693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>facilities.kml</name>
+	<Style id="icon-1899-673AB7-labelson">
+		<IconStyle>
+			<color>ffb73a67</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-1899-9C27B0-labelson">
+		<IconStyle>
+			<color>ffb0279c</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-1899-F9A825-labelson">
+		<IconStyle>
+			<color>ff25a8f9</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-1899-7CB342-labelson">
+		<IconStyle>
+			<color>ff42b37c</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-1899-FFD600-labelson">
+		<IconStyle>
+			<color>ff00d6ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-1899-0F9D58-labelson">
+		<IconStyle>
+			<color>ff589d0f</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-1899-C2185B-labelson">
+		<IconStyle>
+			<color>ff5b18c2</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<gx:CascadingStyle kml:id="__managed_style_2D07039C812F16A32AA9">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2211&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.75</scale>
+			</LabelStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Style id="icon-1899-006064-labelson">
+		<IconStyle>
+			<color>ff646000</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<gx:CascadingStyle kml:id="__managed_style_1069365D052F16A32AA9">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2211&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.75</scale>
+			</LabelStyle>
+			<LineStyle>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_08C38537E82F16A32AA9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1069365D052F16A32AA9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2D07039C812F16A32AA9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0D6294F0612F169293ED">
+		<name>Butte VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 30093<br>par_sta_no: 436<br>sta_no: 436GO]]></description>
+		<styleUrl>#__managed_style_08C38537E82F16A32AA9</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>30093</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>436</value>
+			</Data>
+			<Data name="sta_no">
+				<value>436GO</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-109.2573205017079,40.35087822103258,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09B13A9D1F2F169293F3">
+		<name>Fort Harrison VA Medical Center</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: VAMC<br>fips: 30049<br>par_sta_no: 436<br>sta_no: 436]]></description>
+		<styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>VAMC</value>
+			</Data>
+			<Data name="fips">
+				<value>30049</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>436</value>
+			</Data>
+			<Data name="sta_no">
+				<value>436</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-112.10185,46.617642,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06D4D35BE82F169293F4">
+		<name>Rocky Mountain Regional VA Medical Center</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: VAMC<br>fips: 08001<br>par_sta_no: 554<br>sta_no: 554]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>VAMC</value>
+			</Data>
+			<Data name="fips">
+				<value>08001</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>554</value>
+			</Data>
+			<Data name="sta_no">
+				<value>554</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.830952,39.744506,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1E62E202222F169293F4">
+		<name>Jewell VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: OOS<br>fips: 08005<br>par_sta_no: 554<br>sta_no: 554QB]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>08005</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>554</value>
+			</Data>
+			<Data name="sta_no">
+				<value>554QB</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.819823,39.681279,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="28AC01EBE72F169293F4">
+		<name>Golden VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: MSCBOC<br>fips: 08059<br>par_sta_no: 554<br>sta_no: 554GC]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>MSCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>08059</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>554</value>
+			</Data>
+			<Data name="sta_no">
+				<value>554GC</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-105.199002,39.73374,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="3561F9F5682F169293F4">
+		<name>Glasgow VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 30105<br>par_sta_no: 436<br>sta_no: 436GI]]></description>
+		<styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>30105</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>436</value>
+			</Data>
+			<Data name="sta_no">
+				<value>436GI</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-106.639143,48.19486299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="468F547F902F169293F4">
+		<name>David J. Thatcher VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: MSCBOC<br>fips: 30063<br>par_sta_no: 436<br>sta_no: 436GC]]></description>
+		<styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>MSCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>30063</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>436</value>
+			</Data>
+			<Data name="sta_no">
+				<value>436GC</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-114.058607,46.90874300000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53D821CF5C2F169293F4">
+		<name>Aurora VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: PCCBOC<br>fips: 08005<br>par_sta_no: 554<br>sta_no: 554GB]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>08005</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>554</value>
+			</Data>
+			<Data name="sta_no">
+				<value>554GB</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.832616,39.696718,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="6E6FB611C02F169293F4">
+		<name>Burlington VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: OOS<br>fips: 08063<br>par_sta_no: 554<br>sta_no: 554GI]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>08063</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>554</value>
+			</Data>
+			<Data name="sta_no">
+				<value>554GI</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.264865,39.300928,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C403024762F169293F5">
+		<name>Travis W. Atkins Department of Veterans Affairs Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: PCCBOC<br>fips: 30031<br>par_sta_no: 436<br>sta_no: 436GD]]></description>
+		<styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>30031</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>436</value>
+			</Data>
+			<Data name="sta_no">
+				<value>436GD</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-111.020364,45.67909800000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="11A33CD22A2F169293F5">
+		<name>Merril Lundman Department of Veterans Affairs Outpatient Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 30041<br>par_sta_no: 436<br>sta_no: 436HC]]></description>
+		<styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>30041</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>436</value>
+			</Data>
+			<Data name="sta_no">
+				<value>436HC</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-109.712466,48.556885,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2EA06641222F169293F5">
+		<name>Cheyenne VA Medical Center</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: VAMC<br>fips: 56021<br>par_sta_no: 442<br>sta_no: 442]]></description>
+		<styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>VAMC</value>
+			</Data>
+			<Data name="fips">
+				<value>56021</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>442</value>
+			</Data>
+			<Data name="sta_no">
+				<value>442</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.786257,41.148027,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="3B43FE0DDC2F169293F5">
+		<name>Great Falls VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: PCCBOC<br>fips: 30013<br>par_sta_no: 436<br>sta_no: 436GB]]></description>
+		<styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>30013</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>436</value>
+			</Data>
+			<Data name="sta_no">
+				<value>436GB</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-111.257372,47.490462,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="46E1F9EF222F169293F5">
+		<name>Kalispell VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: PCCBOC<br>fips: 30029<br>par_sta_no: 436<br>sta_no: 436GF]]></description>
+		<styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>30029</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>436</value>
+			</Data>
+			<Data name="sta_no">
+				<value>436GF</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-114.330799,48.21144000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="5935A12C762F169293F5">
+		<name>Lamar VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: OOS<br>fips: 08099<br>par_sta_no: 554<br>sta_no: 554GH]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>08099</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>554</value>
+			</Data>
+			<Data name="sta_no">
+				<value>554GH</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.618086,38.075355,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="63AEC6F6992F169293F5">
+		<name>PFC James Dunn VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: MSCBOC<br>fips: 08101<br>par_sta_no: 554<br>sta_no: 554GD]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>MSCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>08101</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>554</value>
+			</Data>
+			<Data name="sta_no">
+				<value>554GD</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.619216,38.323352,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="7C96AAE6752F169293F5">
+		<name>Glendive VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: PCCBOC<br>fips: 30021<br>par_sta_no: 436<br>sta_no: 436GK]]></description>
+		<styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>30021</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>436</value>
+			</Data>
+			<Data name="sta_no">
+				<value>436GK</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.68928,47.12719,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09EBC8F7B52F169293F6">
+		<name>Helena VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 30049<br>par_sta_no: 436<br>sta_no: 436QC]]></description>
+		<styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>30049</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>436</value>
+			</Data>
+			<Data name="sta_no">
+				<value>436QC</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-111.971479,46.569743,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1C758F4ADC2F169293F6">
+		<name>Sterling VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 08075<br>par_sta_no: 442<br>sta_no: 442QG]]></description>
+		<styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>08075</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>442</value>
+			</Data>
+			<Data name="sta_no">
+				<value>442QG</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-103.197495,40.637138,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="293D69D72D2F169293F6">
+		<name>La Junta VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: PCCBOC<br>fips: 08089<br>par_sta_no: 554<br>sta_no: 554GG]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>08089</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>554</value>
+			</Data>
+			<Data name="sta_no">
+				<value>554GG</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-103.548806,37.977564,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="34BBD3AC8E2F169293F6">
+		<name>PFC Floyd K. Lindstrom Department of Veterans Affairs Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: MSCBOC<br>fips: 08041<br>par_sta_no: 554<br>sta_no: 554GE]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>MSCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>08041</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>554</value>
+			</Data>
+			<Data name="sta_no">
+				<value>554GE</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.845359,38.874135,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="49692F67042F169293F6">
+		<name>Union Boulevard VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: OOS<br>fips: 08041<br>par_sta_no: 554<br>sta_no: 554GK]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>08041</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>554</value>
+			</Data>
+			<Data name="sta_no">
+				<value>554GK</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.29003750817853,33.497833545979,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="529F6093802F169293F6">
+		<name>Cut Bank VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 30035<br>par_sta_no: 436<br>sta_no: 436GL]]></description>
+		<styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>30035</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>436</value>
+			</Data>
+			<Data name="sta_no">
+				<value>436GL</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-112.330278,48.63471999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="6D2302C3C52F169293F6">
+		<name>Rawlins VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 56007<br>par_sta_no: 442<br>sta_no: 442QA]]></description>
+		<styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>56007</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>442</value>
+			</Data>
+			<Data name="sta_no">
+				<value>442QA</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-107.217817,41.796194,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="083F05978C2F169293F7">
+		<name>Browning VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 30035<br>par_sta_no: 436<br>sta_no: 436QD]]></description>
+		<styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>30035</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>436</value>
+			</Data>
+			<Data name="sta_no">
+				<value>436QD</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-113.026192,48.57236,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="190B3E40052F169293F7">
+		<name>Salida VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: OOS<br>fips: 08015<br>par_sta_no: 554<br>sta_no: 554QC]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>08015</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>554</value>
+			</Data>
+			<Data name="sta_no">
+				<value>554QC</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-106.007268,38.542686,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="26B125D6C72F169293F7">
+		<name>Garden of the Gods VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: OOS<br>fips: 08041<br>par_sta_no: 554<br>sta_no: 554QF]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>08041</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>554</value>
+			</Data>
+			<Data name="sta_no">
+				<value>554QF</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.853469,38.896475,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="305870D7572F169293F7">
+		<name>Major William Edward Adams Department of Veterans Affairs Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 08081<br>par_sta_no: 575<br>sta_no: 575GB]]></description>
+		<styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>08081</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>575</value>
+			</Data>
+			<Data name="sta_no">
+				<value>575GB</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-107.560291,40.514188,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="478B7973CD2F169293F7">
+		<name>Lewistown VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 30027<br>par_sta_no: 436<br>sta_no: 436GM]]></description>
+		<styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>30027</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>436</value>
+			</Data>
+			<Data name="sta_no">
+				<value>436GM</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-109.408563,47.070122,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="58B98BC5202F169293F7">
+		<name>Benjamin Charles Steele VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: HCC<br>fips: 30111<br>par_sta_no: 436<br>sta_no: 436GH]]></description>
+		<styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>HCC</value>
+			</Data>
+			<Data name="fips">
+				<value>30111</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>436</value>
+			</Data>
+			<Data name="sta_no">
+				<value>436GH</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-108.603579,45.736901,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="608ECB05F52F169293F7">
+		<name>Plentywood VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 30091<br>par_sta_no: 436<br>sta_no: 436QB]]></description>
+		<styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>30091</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>436</value>
+			</Data>
+			<Data name="sta_no">
+				<value>436QB</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.563252,48.77871100000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="78238BB9A02F169293F7">
+		<name>Northern Colorado VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: MSCBOC<br>fips: 08069<br>par_sta_no: 442<br>sta_no: 442GE]]></description>
+		<styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>MSCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>08069</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>442</value>
+			</Data>
+			<Data name="sta_no">
+				<value>442GE</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.995925,40.442218,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02D8E2671D2F169293F8">
+		<name>Space Center VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: PCCBOC<br>fips: 08041<br>par_sta_no: 554<br>sta_no: 554GM]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>08041</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>554</value>
+			</Data>
+			<Data name="sta_no">
+				<value>554GM</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.72696,38.840579,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="170FFEB2BE2F169293F8">
+		<name>Moab VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 49019<br>par_sta_no: 575<br>sta_no: 575QB]]></description>
+		<styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>49019</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>575</value>
+			</Data>
+			<Data name="sta_no">
+				<value>575QB</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-109.548785,38.562514,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="25E5CA335E2F169293F8">
+		<name>Fort Collins VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 08069<br>par_sta_no: 442<br>sta_no: 442GC]]></description>
+		<styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>08069</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>442</value>
+			</Data>
+			<Data name="sta_no">
+				<value>442GC</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-105.087951,40.553874,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="38E7867B932F169293F8">
+		<name>Dr. Joseph Medicine Crow VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: PCCBOC<br>fips: 30111<br>par_sta_no: 436<br>sta_no: 436GN]]></description>
+		<styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>30111</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>436</value>
+			</Data>
+			<Data name="sta_no">
+				<value>436GN</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-108.606166,45.73740000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="4159BEBFAE2F169293F8">
+		<name>Sidney VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 31033<br>par_sta_no: 442<br>sta_no: 442GB]]></description>
+		<styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>31033</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>442</value>
+			</Data>
+			<Data name="sta_no">
+				<value>442GB</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-102.976688,41.142464,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="5431F3A3572F169293F8">
+		<name>Hamilton VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 30081<br>par_sta_no: 436<br>sta_no: 436QA]]></description>
+		<styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>30081</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>436</value>
+			</Data>
+			<Data name="sta_no">
+				<value>436QA</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-114.144178,46.254985,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="68A431BC142F169293F8">
+		<name>Loveland VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: MSCBOC<br>fips: 08069<br>par_sta_no: 442<br>sta_no: 442GD]]></description>
+		<styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>MSCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>08069</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>442</value>
+			</Data>
+			<Data name="sta_no">
+				<value>442GD</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-105.003818,40.412649,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08A77BB9222F169293F9">
+		<name>Glenwood Springs VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 08045<br>par_sta_no: 575<br>sta_no: 575QA]]></description>
+		<styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>08045</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>575</value>
+			</Data>
+			<Data name="sta_no">
+				<value>575QA</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-107.325453,39.527831,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1CCB842A7E2F169293F9">
+		<name>Montrose VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 08085<br>par_sta_no: 575<br>sta_no: 575GA]]></description>
+		<styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>08085</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>575</value>
+			</Data>
+			<Data name="sta_no">
+				<value>575GA</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-107.871848,38.470666,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="23722C18E32F169293F9">
+		<name>Alamosa VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: OOS<br>fips: 08003<br>par_sta_no: 554<br>sta_no: 554GF]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>08003</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>554</value>
+			</Data>
+			<Data name="sta_no">
+				<value>554GF</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-105.902756,37.4796,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="3A1DCB45FD2F169293F9">
+		<name>Grand Junction VA Medical Center</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: VAMC<br>fips: 08077<br>par_sta_no: 575<br>sta_no: 575]]></description>
+		<styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>VAMC</value>
+			</Data>
+			<Data name="fips">
+				<value>08077</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>575</value>
+			</Data>
+			<Data name="sta_no">
+				<value>575</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-108.540243,39.077277,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="4D47AFEB442F169293F9">
+		<name>York Street VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: OOS<br>fips: 08031<br>par_sta_no: 554<br>sta_no: 554QA]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>08031</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>554</value>
+			</Data>
+			<Data name="sta_no">
+				<value>554QA</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-104.959712,39.769569,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53E1F121502F169293F9">
+		<name>Yale Avenue VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 2-Medium Complexity<br>s_abbr: OOS<br>fips: 40143<br>par_sta_no: 623<br>sta_no: 623QC]]></description>
+		<styleUrl>#icon-1899-006064-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>2-Medium Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>40143</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>623</value>
+			</Data>
+			<Data name="sta_no">
+				<value>623QC</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.923282,36.089352,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="6DF4DAF2372F169293F9">
+		<name>Stillwater VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1b-High Complexity<br>s_abbr: PCCBOC<br>fips: 40119<br>par_sta_no: 635<br>sta_no: 635GE]]></description>
+		<styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1b-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>40119</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>635</value>
+			</Data>
+			<Data name="sta_no">
+				<value>635GE</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.051517,36.126354,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="70738F741F2F169293F9">
+		<name>St. George VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: CBOC<br>fips: 49053<br>par_sta_no: 660<br>sta_no: 660GG]]></description>
+		<styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>CBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>49053</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>660</value>
+			</Data>
+			<Data name="sta_no">
+				<value>660GG</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-113.547341,37.11179,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="8998629ECC2F169293F9">
+		<name>Sheridan VA Medical Center</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: VAMC<br>fips: 56033<br>par_sta_no: 666<br>sta_no: 666]]></description>
+		<styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>VAMC</value>
+			</Data>
+			<Data name="fips">
+				<value>56033</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>666</value>
+			</Data>
+			<Data name="sta_no">
+				<value>666</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-106.984922,44.826968,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DD6F0A4082F169293FA">
+		<name>Riverton VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 56013<br>par_sta_no: 666<br>sta_no: 666GC]]></description>
+		<styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>56013</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>666</value>
+			</Data>
+			<Data name="sta_no">
+				<value>666GC</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-108.421092,43.035645,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="148B610CAC2F169293FA">
+		<name>Idaho Falls VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: PCCBOC<br>fips: 16019<br>par_sta_no: 660<br>sta_no: 660QA]]></description>
+		<styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>16019</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>660</value>
+			</Data>
+			<Data name="sta_no">
+				<value>660QA</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-111.999108,43.491811,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="24EC4E00A02F169293FA">
+		<name>Jack C. Montgomery Department of Veterans Affairs Medical Center</name>
+		<description><![CDATA[description: <br>parentstationcl: 2-Medium Complexity<br>s_abbr: VAMC<br>fips: 40101<br>par_sta_no: 623<br>sta_no: 623]]></description>
+		<styleUrl>#icon-1899-006064-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>2-Medium Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>VAMC</value>
+			</Data>
+			<Data name="fips">
+				<value>40101</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>623</value>
+			</Data>
+			<Data name="sta_no">
+				<value>623</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.41360899999999,35.764897,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="303F09C3452F169293FA">
+		<name>Claremore VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 2-Medium Complexity<br>s_abbr: PCCBOC<br>fips: 40131<br>par_sta_no: 623<br>sta_no: 623GD]]></description>
+		<styleUrl>#icon-1899-006064-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>2-Medium Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>40131</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>623</value>
+			</Data>
+			<Data name="sta_no">
+				<value>623GD</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.598917,36.337569,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="4DF14D97122F169293FA">
+		<name>Yukon VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1b-High Complexity<br>s_abbr: MSCBOC<br>fips: 40017<br>par_sta_no: 635<br>sta_no: 635GJ]]></description>
+		<styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1b-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>MSCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>40017</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>635</value>
+			</Data>
+			<Data name="sta_no">
+				<value>635GJ</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.768175,35.482561,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="5EB9B7FEA82F169293FA">
+		<name>Clinton VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1b-High Complexity<br>s_abbr: OOS<br>fips: 40039<br>par_sta_no: 635<br>sta_no: 635GH]]></description>
+		<styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1b-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>40039</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>635</value>
+			</Data>
+			<Data name="sta_no">
+				<value>635GH</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.964369,35.515486,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="6C84A1BC452F169293FA">
+		<name>Vinita VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 2-Medium Complexity<br>s_abbr: PCCBOC<br>fips: 40035<br>par_sta_no: 623<br>sta_no: 623GB]]></description>
+		<styleUrl>#icon-1899-006064-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>2-Medium Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>40035</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>623</value>
+			</Data>
+			<Data name="sta_no">
+				<value>623GB</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.14360000000001,36.632051,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0425BD071C2F169293FB">
+		<name>Blackwell VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1b-High Complexity<br>s_abbr: OOS<br>fips: 40071<br>par_sta_no: 635<br>sta_no: 635GC]]></description>
+		<styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1b-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>40071</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>635</value>
+			</Data>
+			<Data name="sta_no">
+				<value>635GC</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.296898,36.796953,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1871E6A20E2F169293FB">
+		<name>Tinker VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1b-High Complexity<br>s_abbr: PCCBOC<br>fips: 40109<br>par_sta_no: 635<br>sta_no: 635QE]]></description>
+		<styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1b-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>40109</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>635</value>
+			</Data>
+			<Data name="sta_no">
+				<value>635QE</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.40477799999999,35.419766,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2DC2F1C6E22F169293FB">
+		<name>Muskogee East VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 2-Medium Complexity<br>s_abbr: OOS<br>fips: 40101<br>par_sta_no: 623<br>sta_no: 623QA]]></description>
+		<styleUrl>#icon-1899-006064-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>2-Medium Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>40101</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>623</value>
+			</Data>
+			<Data name="sta_no">
+				<value>623QA</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.33901899999999,35.77112,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="393186DAAB2F169293FB">
+		<name>Ardmore VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1b-High Complexity<br>s_abbr: PCCBOC<br>fips: 40019<br>par_sta_no: 635<br>sta_no: 635HB]]></description>
+		<styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1b-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>40019</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>635</value>
+			</Data>
+			<Data name="sta_no">
+				<value>635HB</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.14478099999999,34.187577,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="44AD63F4E22F169293FB">
+		<name>Pocatello VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: MSCBOC<br>fips: 16005<br>par_sta_no: 660<br>sta_no: 660GA]]></description>
+		<styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>MSCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>16005</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>660</value>
+			</Data>
+			<Data name="sta_no">
+				<value>660GA</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-112.433329,42.867022,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="574CBBD6F72F169293FB">
+		<name>Evanston VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 56041<br>par_sta_no: 666<br>sta_no: 666QB]]></description>
+		<styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>56041</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>666</value>
+			</Data>
+			<Data name="sta_no">
+				<value>666QB</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-110.941463,41.252215,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="687615C1122F169293FB">
+		<name>McAlester VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 2-Medium Complexity<br>s_abbr: PCCBOC<br>fips: 40121<br>par_sta_no: 623<br>sta_no: 623GA]]></description>
+		<styleUrl>#icon-1899-006064-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>2-Medium Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>40121</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>623</value>
+			</Data>
+			<Data name="sta_no">
+				<value>623GA</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.75031799999999,34.936017,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0071F1646A2F169293FC">
+		<name>South Oklahoma City VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1b-High Complexity<br>s_abbr: MSCBOC<br>fips: 40109<br>par_sta_no: 635<br>sta_no: 635QB]]></description>
+		<styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1b-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>MSCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>40109</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>635</value>
+			</Data>
+			<Data name="sta_no">
+				<value>635QB</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.41265800000001,35.387603,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="10380387912F169293FC">
+		<name>Lawton North VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1b-High Complexity<br>s_abbr: OOS<br>fips: 40031<br>par_sta_no: 635<br>sta_no: 635QD]]></description>
+		<styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1b-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>40031</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>635</value>
+			</Data>
+			<Data name="sta_no">
+				<value>635QD</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.43355,34.661505,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2AF3AFA0402F169293FC">
+		<name>Orem VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: PCCBOC<br>fips: 49049<br>par_sta_no: 660<br>sta_no: 660GE]]></description>
+		<styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>49049</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>660</value>
+			</Data>
+			<Data name="sta_no">
+				<value>660GE</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-111.688919,40.283166,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="3147EB7EA02F169293FC">
+		<name>Ada VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1b-High Complexity<br>s_abbr: PCCBOC<br>fips: 40123<br>par_sta_no: 635<br>sta_no: 635GD]]></description>
+		<styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1b-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>40123</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>635</value>
+			</Data>
+			<Data name="sta_no">
+				<value>635GD</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.62905499999999,34.781589,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="45C1A6CF9D2F169293FC">
+		<name>Enid VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1b-High Complexity<br>s_abbr: PCCBOC<br>fips: 40047<br>par_sta_no: 635<br>sta_no: 635GG]]></description>
+		<styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1b-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>40047</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>635</value>
+			</Data>
+			<Data name="sta_no">
+				<value>635GG</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.86438900000002,36.390662,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="5B140EAA302F169293FC">
+		<name>Ernest Childers Department of Veterans Affairs Outpatient Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 2-Medium Complexity<br>s_abbr: MSCBOC<br>fips: 40143<br>par_sta_no: 623<br>sta_no: 623BY]]></description>
+		<styleUrl>#icon-1899-006064-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>2-Medium Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>MSCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>40143</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>623</value>
+			</Data>
+			<Data name="sta_no">
+				<value>623BY</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.86845499999998,36.033813,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="6752804A7D2F169293FC">
+		<name>Wichita Falls VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1b-High Complexity<br>s_abbr: MSCBOC<br>fips: 48485<br>par_sta_no: 635<br>sta_no: 635GB]]></description>
+		<styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1b-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>MSCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>48485</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>635</value>
+			</Data>
+			<Data name="sta_no">
+				<value>635GB</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.52705899999999,33.949107,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="7BB59B7FDA2F169293FC">
+		<name>Shawnee VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1b-High Complexity<br>s_abbr: OOS<br>fips: 40125<br>par_sta_no: 635<br>sta_no: 635GK]]></description>
+		<styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1b-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>40125</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>635</value>
+			</Data>
+			<Data name="sta_no">
+				<value>635GK</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.929839,35.3673,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A62CC774A2F169293FD">
+		<name>North May VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1b-High Complexity<br>s_abbr: PCCBOC<br>fips: 40109<br>par_sta_no: 635<br>sta_no: 635QA]]></description>
+		<styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1b-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>40109</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>635</value>
+			</Data>
+			<Data name="sta_no">
+				<value>635QA</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.568442,35.592539,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="10670F41D42F169293FD">
+		<name>McCurtain County VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 2-Medium Complexity<br>s_abbr: PCCBOC<br>fips: 40089<br>par_sta_no: 623<br>sta_no: 623GC]]></description>
+		<styleUrl>#icon-1899-006064-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>2-Medium Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>40089</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>623</value>
+			</Data>
+			<Data name="sta_no">
+				<value>623GC</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-94.816711,33.895571,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2AEBB53C422F169293FD">
+		<name>Norman VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1b-High Complexity<br>s_abbr: PCCBOC<br>fips: 40027<br>par_sta_no: 635<br>sta_no: 635GI]]></description>
+		<styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1b-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>40027</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>635</value>
+			</Data>
+			<Data name="sta_no">
+				<value>635GI</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.48139800000001,35.23122,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="378D38C4DF2F169293FD">
+		<name>Tulsa Eleventh Street VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 2-Medium Complexity<br>s_abbr: OOS<br>fips: 40143<br>par_sta_no: 623<br>sta_no: 623QB]]></description>
+		<styleUrl>#icon-1899-006064-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>2-Medium Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>40143</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>623</value>
+			</Data>
+			<Data name="sta_no">
+				<value>623QB</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.862172,36.149229,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="4D00DD307C2F169293FD">
+		<name>Oklahoma City VA Medical Center</name>
+		<description><![CDATA[description: <br>parentstationcl: 1b-High Complexity<br>s_abbr: VAMC<br>fips: 40109<br>par_sta_no: 635<br>sta_no: 635]]></description>
+		<styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1b-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>VAMC</value>
+			</Data>
+			<Data name="fips">
+				<value>40109</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>635</value>
+			</Data>
+			<Data name="sta_no">
+				<value>635</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.496432,35.482455,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="54D94A4C8B2F169293FD">
+		<name>Roosevelt VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: OOS<br>fips: 49013<br>par_sta_no: 660<br>sta_no: 660GD]]></description>
+		<styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>49013</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>660</value>
+			</Data>
+			<Data name="sta_no">
+				<value>660GD</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-109.995898,40.302061,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="6A0313148F2F169293FD">
+		<name>Ogden VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: MSCBOC<br>fips: 49057<br>par_sta_no: 660<br>sta_no: 660GB]]></description>
+		<styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>MSCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>49057</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>660</value>
+			</Data>
+			<Data name="sta_no">
+				<value>660GB</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-111.972695,41.191524,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="056C051EF42F169293FE">
+		<name>Elko VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: OOS<br>fips: 32007<br>par_sta_no: 660<br>sta_no: 660GK]]></description>
+		<styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>32007</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>660</value>
+			</Data>
+			<Data name="sta_no">
+				<value>660GK</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-115.790341,40.840017,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1A73E10C8A2F169293FE">
+		<name>Casper VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: PCCBOC<br>fips: 56025<br>par_sta_no: 666<br>sta_no: 666GB]]></description>
+		<styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>56025</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>666</value>
+			</Data>
+			<Data name="sta_no">
+				<value>666GB</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-106.235888,42.84315,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2E8E0AD4BB2F169293FE">
+		<name>Afton VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 56023<br>par_sta_no: 666<br>sta_no: 666QA]]></description>
+		<styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>56023</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>666</value>
+			</Data>
+			<Data name="sta_no">
+				<value>666QA</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-110.933205,42.731305,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="3CC182BEAD2F169293FE">
+		<name>Lawton VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1b-High Complexity<br>s_abbr: MSCBOC<br>fips: 40031<br>par_sta_no: 635<br>sta_no: 635GA]]></description>
+		<styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1b-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>MSCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>40031</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>635</value>
+			</Data>
+			<Data name="sta_no">
+				<value>635GA</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-98.416618,34.653247,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="43ABB3AD412F169293FE">
+		<name>Fourteenth Street VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1b-High Complexity<br>s_abbr: OOS<br>fips: 40109<br>par_sta_no: 635<br>sta_no: 635QC]]></description>
+		<styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1b-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>40109</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>635</value>
+			</Data>
+			<Data name="sta_no">
+				<value>635QC</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.48890900000001,35.48409,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="53816912A42F169293FE">
+		<name>North Oklahoma City VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1b-High Complexity<br>s_abbr: OOS<br>fips: 40109<br>par_sta_no: 635<br>sta_no: 635GL]]></description>
+		<styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1b-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>40109</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>635</value>
+			</Data>
+			<Data name="sta_no">
+				<value>635GL</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-97.57314000000001,35.617302,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="6CDAAA528C2F169293FE">
+		<name>Altus VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1b-High Complexity<br>s_abbr: PCCBOC<br>fips: 40065<br>par_sta_no: 635<br>sta_no: 635GF]]></description>
+		<styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1b-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>40065</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>635</value>
+			</Data>
+			<Data name="sta_no">
+				<value>635GF</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-99.33397600000001,34.654873,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="7E62D749272F169293FE">
+		<name>George E. Wahlen Department of Veterans Affairs Medical Center</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: VAMC<br>fips: 49035<br>par_sta_no: 660<br>sta_no: 660]]></description>
+		<styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>VAMC</value>
+			</Data>
+			<Data name="fips">
+				<value>49035</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>660</value>
+			</Data>
+			<Data name="sta_no">
+				<value>660</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-111.83765,40.755051,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FE00AD8762F169293FF">
+		<name>Cache Valley VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: OOS<br>fips: 49005<br>par_sta_no: 660<br>sta_no: 660QD]]></description>
+		<styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>49005</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>660</value>
+			</Data>
+			<Data name="sta_no">
+				<value>660QD</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-111.823079,41.775979,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1368EF08912F169293FF">
+		<name>Grand Junction 28 Road VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 08077<br>par_sta_no: 575<br>sta_no: 575QD]]></description>
+		<styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>08077</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>575</value>
+			</Data>
+			<Data name="sta_no">
+				<value>575QD</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-108.533661,39.063922,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2C198B071E2F169293FF">
+		<name>Bartlesville VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 2-Medium Complexity<br>s_abbr: OOS<br>fips: 40147<br>par_sta_no: 623<br>sta_no: 623QD]]></description>
+		<styleUrl>#icon-1899-006064-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>2-Medium Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>40147</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>623</value>
+			</Data>
+			<Data name="sta_no">
+				<value>623QD</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-95.94528300000002,36.748773,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="3ECD243FFB2F169293FF">
+		<name>South Jordan VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: PCCBOC<br>fips: 49035<br>par_sta_no: 660<br>sta_no: 660GJ]]></description>
+		<styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>PCCBOC</value>
+			</Data>
+			<Data name="fips">
+				<value>49035</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>660</value>
+			</Data>
+			<Data name="sta_no">
+				<value>660GJ</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-112.012569,40.541476,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="468848CA202F169293FF">
+		<name>Cody VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 56029<br>par_sta_no: 666<br>sta_no: 666GD]]></description>
+		<styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>56029</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>666</value>
+			</Data>
+			<Data name="sta_no">
+				<value>666GD</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-109.058882,44.527149,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="5E85709BA72F169293FF">
+		<name>Price VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: OOS<br>fips: 49007<br>par_sta_no: 660<br>sta_no: 660QB]]></description>
+		<styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>1a-High Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>49007</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>660</value>
+			</Data>
+			<Data name="sta_no">
+				<value>660QB</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-110.820152,39.597822,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="6CA55C31782F169293FF">
+		<name>Rock Springs VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 56037<br>par_sta_no: 666<br>sta_no: 666GF]]></description>
+		<styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>56037</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>666</value>
+			</Data>
+			<Data name="sta_no">
+				<value>666GF</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-109.243095,41.592373,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DEFEB6CF82F16929400">
+		<name>Gillette VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 56005<br>par_sta_no: 666<br>sta_no: 666GE]]></description>
+		<styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>56005</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>666</value>
+			</Data>
+			<Data name="sta_no">
+				<value>666GE</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-105.511118,44.245986,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1FE582F3182F16929400">
+		<name>Worland VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 56043<br>par_sta_no: 666<br>sta_no: 666QC]]></description>
+		<styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>56043</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>666</value>
+			</Data>
+			<Data name="sta_no">
+				<value>666QC</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-107.948437,44.012502,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2C98CE61062F16929400">
+		<name>Miles City VA Clinic</name>
+		<description><![CDATA[description: <br>parentstationcl: 3-Low Complexity<br>s_abbr: OOS<br>fips: 30017<br>par_sta_no: 436<br>sta_no: 436QE]]></description>
+		<styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="description">
+			</Data>
+			<Data name="parentstationcl">
+				<value>3-Low Complexity</value>
+			</Data>
+			<Data name="s_abbr">
+				<value>OOS</value>
+			</Data>
+			<Data name="fips">
+				<value>30017</value>
+			</Data>
+			<Data name="par_sta_no">
+				<value>436</value>
+			</Data>
+			<Data name="sta_no">
+				<value>436QE</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-105.82258,46.40498999999999,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
