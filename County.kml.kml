@@ -4,22 +4,22 @@
     <name>County.kml</name>
     <Style id="poly-006064-1901-125-normal">
       <LineStyle>
-        <color>660033</color>
+        <color>ff660033</color>
         <width>1.901</width>
       </LineStyle>
       <PolyStyle>
-        <color>660033</color>
+        <color>ff660033</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
     </Style>
     <Style id="poly-006064-1901-125-highlight">
       <LineStyle>
-        <color>660033</color>
+        <color>ff660033</color>
         <width>2.8515</width>
       </LineStyle>
       <PolyStyle>
-        <color>660033</color>
+        <color>ff660033</color>
         <fill>4</fill>
         <outline>8</outline>
       </PolyStyle>
