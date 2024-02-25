@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8410558,
+          40.7576916,
+          0
+        ]
+      },
+      "properties": {
+        "name": "George E. Wahlen Department of Veterans Affairs Medical Center",
+        "styleUrl": "#__managed_style_097B7706852F168C3E4E",
+        "styleMapHash": {
+          "normal": "#__managed_style_1B5B4F19A72F168C3E4E",
+          "highlight": "#__managed_style_29CBF704512F168C3E4E"
+        }
+      },
+      "id": "09492265E62F168AFDA4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0953297,
+          40.9628845,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Davis County",
+        "styleUrl": "#__managed_style_00B196C0B12F168BC5B4",
+        "styleMapHash": {
+          "normal": "#__managed_style_1D817C0BA92F168BC5B4",
+          "highlight": "#__managed_style_27EAE908EE2F168BC5B4"
+        }
+      },
+      "id": "077615FAF52F168B8A6F"
+    }
+  ]
+}
