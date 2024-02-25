@@ -2,6 +2,16 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>facilities.kml</name>
+	<Style id="globeIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal3/icon19.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <width>2</width>
+      </LineStyle>
+    </Style>
     <Style id="icon-1899-006064-labelson">
       <IconStyle>
         <color>ff646000</color>
@@ -145,7 +155,7 @@
     <Placemark>
       <name>Rocky Mountain Regional VA Medical Center</name>
       <description><![CDATA[description: <br>parentstationcl: 1a-High Complexity<br>s_abbr: VAMC<br>fips: 08001<br>par_sta_no: 554<br>sta_no: 554]]></description>
-      <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+      <styleUrl>#globeIcon</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value/>
